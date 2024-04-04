@@ -18,6 +18,7 @@
       },
       "ios": {
         "buildType": "ipa",
+        "workflow": "generic",
         "image": "latest"
       }
     }
