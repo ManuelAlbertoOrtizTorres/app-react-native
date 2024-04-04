@@ -13,7 +13,12 @@
     "production": {
       "releaseChannel": "default",
       "android": {
-        "buildType": "apk"
+        "buildType": "apk",
+        "image": "latest"
+      },
+      "ios": {
+        "buildType": "ipa",
+        "image": "latest"
       }
     }
   },
